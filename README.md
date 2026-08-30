@@ -18,6 +18,3 @@ Known weakness: [insert explanation, e.g., vulnerable to frequency analysis if t
 * Hop-by-hop (not end-to-end) encryption: server decrypts and re-encrypts per client key.
 * File transfer size cap: 1 MB.
 * Concurrency model: std::thread chosen because [insert reasoning].
-
-## Known Limitations
-[List any bugs, missing features, or unhandled edge cases here]
